@@ -1,4 +1,5 @@
 # Green:
+- bright cyan: ![#28ebc8](https://placehold.it/15/28ebc8/000000?text=+) `#28ebc8`
 - strong lime green: ![#2cbe4e](https://placehold.it/15/2cbe4e/000000?text=+) `#2cbe4e` ([source](https://github.com))
 
 # Red:
@@ -6,3 +7,4 @@
 
 # Blue:
 - bright blue: ![#00ccff](https://placehold.it/15/00ccff/000000?text=+) `#00ccff` ([source](http://www.zen-buddhism.net/))
+- strong blue: ![#0f4ccb](https://placehold.it/15/0f4ccb/000000?text=+) `#0f4ccb`
