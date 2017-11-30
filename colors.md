@@ -11,3 +11,4 @@
 
 # Yellow:
 - pure (or mostly pure) orange: ![#ff9500](https://placehold.it/15/ff9500/000000?text=+) `#ff9500` (Source: iOS 11)
+- Pure (or mostly pure) orange 2: ![#ff4400](https://placehold.it/15/ff4400/000000?text=+) `#ff4400` (Source: IFTTT)
