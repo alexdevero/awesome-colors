@@ -9,6 +9,7 @@
 
 # Blue:
 - bright blue: ![#00ccff](https://placehold.it/15/00ccff/000000?text=+) `#00ccff` ([source](http://www.zen-buddhism.net/))
+- Bright blue: ![#5844ed](https://placehold.it/15/5844ed/000000?text=+) `#5844ed` ([source](https://expo.io/))
 - strong blue: ![#0f4ccb](https://placehold.it/15/0f4ccb/000000?text=+) `#0f4ccb`
 - vivid blue: ![#1277eb](https://placehold.it/15/1277eb/000000?text=+) `#1277eb` ([source](https://www.github.com/))
 
