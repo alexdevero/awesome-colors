@@ -13,6 +13,9 @@
 - strong blue: ![#0f4ccb](https://placehold.it/15/0f4ccb/000000?text=+) `#0f4ccb`
 - vivid blue: ![#1277eb](https://placehold.it/15/1277eb/000000?text=+) `#1277eb` ([source](https://www.github.com/))
 
+# Orange:
+- Pure (or mostly pure) orange: ![#ff6400](https://placehold.it/15/ff6400/000000?text=+) `#ff6400` (Source: Coudepen - markdown heading)
+
 # Yellow:
 - Pure (or mostly pure) orange: ![#ff9500](https://placehold.it/15/ff9500/000000?text=+) `#ff9500` (Source: iOS 11)
 - Pure (or mostly pure) orange 2: ![#ff4400](https://placehold.it/15/ff4400/000000?text=+) `#ff4400` (Source: IFTTT)
